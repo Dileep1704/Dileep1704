@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dileep1704
-- 👀 I’m a Computer Science Engineering Student currently in Second year.
+- 👀 I’m a Computer Science Engineering Student
 - 🌱 I’m pursuing my Btech in NITK-Suratkal.
 
 <!---
